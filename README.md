@@ -16,4 +16,8 @@ npx skills add brinkereric-png/brinker-analytics-skills
 
 ---
 
-If you want your marketing data in one place without managing the build yourself, shoot me a note to talk through it: [Schedule a call](https://brinkeranalytics.com/insights/fractional-analytics-lead-90-days-dtc#contact). Nothing to prepare.
+If you want your marketing data in one place without managing the build yourself, shoot me a note to talk through it: [Get in touch](https://brinkeranalytics.com/contact). Nothing to prepare.
+
+## License
+
+Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) (see `LICENSE`). If you reuse it, please credit Eric Brinker at [Brinker Analytics](https://brinkeranalytics.com).
